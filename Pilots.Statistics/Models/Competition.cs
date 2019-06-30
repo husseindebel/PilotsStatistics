@@ -5,7 +5,7 @@ namespace Pilots.Statistics.Models
 {
     public class Competition
     {
-        public int CompetitionID { get; set; }
+        public int CompetitionId { get; set; }
         public DateTimeOffset StartDate { get; set; }
 
         public ICollection<Season> Seasons { get; set; }
