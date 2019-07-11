@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Pilots.Statistics.Models
+namespace Pilots.Statistics.Core.Models
 {
     public class Team
     {

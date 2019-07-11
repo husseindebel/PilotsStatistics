@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
-using Pilots.Statistics.Models;
+using Pilots.Statistics.Core.Models;
 
-namespace Pilots.Statistics.DAL
+namespace Pilots.Statistics.Infrastructure.DAL
 {
     public class LeagueContext : DbContext
     {

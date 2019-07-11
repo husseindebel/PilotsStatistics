@@ -12,9 +12,6 @@ namespace Pilots.Statistics.Models
         public Rounds Round { get; set; }
         public int RoundId { get; set; }
 
-        public MatchStatistics MatchStatistics { get; set; }
-        public int MatchStatisticId { get; set; }
-
         public Season Season { get; set; }
         public int SeasonId { get; set; }
     }

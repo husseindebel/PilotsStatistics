@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Pilots.Statistics.Models
+namespace Pilots.Statistics.Core.Models
 {
     public class Rounds
     {
